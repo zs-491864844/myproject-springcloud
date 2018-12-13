@@ -91,6 +91,7 @@
   <modules>
     <module>manager-api</module>
     <module>manager-provider</module>
+    <module>manager-eureka</module>
   </modules>
 
 </project>
